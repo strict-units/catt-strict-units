@@ -1,0 +1,5 @@
+(executable
+ (name catt)
+ (modules catt)
+ (public_name catt)
+ (libraries catt))
